@@ -1,52 +1,55 @@
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxtb2c2czlxeWYzNWc2Z2l4bHhqaXZpZWRlYmdxY2EwYmE2ZDA4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iDadb1KQ/giphy.gif" width="100%" height="250" style="object-fit: cover; border-radius: 15px;" />
-</div>
+<h1 align="center">Hi, I'm Shrinivasan 👋</h1>
+<h3 align="center">Full-Stack Engineer | AI Developer | Tech Founder</h3>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/opshri21">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=FFFFFF;CCCCCC;A9A9A9;737373&center=true&vCenter=true&width=800&lines=Founder+of+Arkive;Full-Stack+Tech+God;Shipping+in+Rust+%26+PyTorch;Building+Nexora+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Architecting+Arkive+%26+Nexora;Engineering+Scalable+Web+%26+Mobile+Apps;Deep+Learning+with+PyTorch;Writing+High-Performance+Rust;Automating+the+Future" alt="Typing SVG" />
   </a>
-</div>
+</p>
 
-<br>
+<p align="center">
+  Execution is everything. I am an autonomous full-stack engineer building high-performance systems from the ground up. I specialize in leveraging modern frameworks and high-speed computing to ship high-impact products.
+</p>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=opshri21&theme=dark&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+---
+
+### 🚀 What I'm Building & Exploring
+
+- 🔭 **Architecting [Arkive]:** Building the world's first zero-commission marketplace where engineers meet real-life users for architectural blueprints and 3D visual designs.
+- 🧠 **Building [Nexora]:** Co-developing an advanced AI workspace designed to streamline complex workflows.
+- 🌱 **Currently Mastering:** Scaling backend systems with **Rust**, engineering intelligent models in **PyTorch**, and writing bulletproof **TypeScript**.
+- 👯 **Looking to Collaborate:** Open to partnering with AI startups, specifically platforms focused on generative design and automated blueprinting that can integrate with Arkive.
+- 💬 **Ask Me About:** Full-Stack Development (Next.js/React Native), AI Integrations, and custom business automation.
+- ⚡ **Fun Fact:** I build systems that prioritize extreme efficiency, but in life, I prioritize choosing yourself over others. 
+
+---
+
+### 💻 My Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,rust,react,nextjs,vue,tailwind,nodejs,supabase,postgresql,git,vercel,linux&perline=7" />
   </a>
-</div>
+</p>
 
-<br>
+---
 
-<div align="center">
-  <table style="border: none; background: transparent;">
-    <tr>
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="45" />
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api?username=opshri21&show_icons=true&title_color=FFFFFF&text_color=A9A9A9&icon_color=CCCCCC&hide_border=true&bg_color=00000000" />
-      </td>
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Fire.png" width="45" />
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opshri21&layout=compact&title_color=FFFFFF&text_color=A9A9A9&hide_border=true&bg_color=00000000" />
-      </td>
-    </tr>
-  </table>
-</div>
+### 📊 GitHub Analytics
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=opshri21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=opshri21&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="48%" />
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=rust,ts,python,react,nextjs,supabase,tailwind,nodejs,git,linux,vercel&perline=11&theme=dark" />
-</div>
+---
 
-<br>
+### 📫 Let's Connect
 
-<div align="center">
+<p align="center">
   <a href="mailto:shrinivasanshrangare04@gmail.com">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,434343,000000&height=120&section=footer&text=Let's%20Build.&fontSize=40&fontAlignY=50&animation=twinkling&fontColor=ffffff" />
+    <img src="https://img.shields.io/badge/Email-shrinivasanshrangare04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
+  <a href="https://instagram.com/suguruu._04">
+    <img src="https://img.shields.io/badge/Instagram-suguruu._04-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
