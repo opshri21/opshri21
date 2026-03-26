@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/opshri21">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Architecting+Arkive+%26+Nexora;Engineering+Scalable+Web+%26+Mobile+Apps;Deep+Learning+with+PyTorch;Writing+High-Performance+Rust;Automating+the+Future" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Architecting+Arkive;Engineering+Scalable+Web+%26+Mobile+Apps;Deep+Learning+with+PyTorch;Writing+High-Performance+Rust;Automating+the+Future" alt="Typing SVG" />
   </a>
 </p>
 
